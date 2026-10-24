@@ -1,0 +1,6 @@
+{
+  "name": "ARENA X - Sports & Entertainment Platform",
+  "description": "Premium sports and entertainment digital destination with live scores, breaking news, match fixtures, movies, fan polls, quizzes, and exclusive merchandise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
